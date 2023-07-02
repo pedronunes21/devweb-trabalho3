@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = devweb-trabalho3-frontend
+	url = https://github.com/pedronunes21/devweb-trabalho3-frontend
+[submodule "backend"]
+	path = devweb-trabalho3-backend
+	url = https://github.com/pedronunes21/devweb-trabalho3-backend
